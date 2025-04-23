@@ -1,7 +1,7 @@
 // Shared artist list
 var artists = [
-    "Tyler, The Creator", "Billie Eilish", "Kendrick Lamar", "Lana Del Rey",
-    "Frank Ocean", "Doja Cat", "SZA", "Childish Gambino", "The Weeknd", "Paramore"
+    "Tyler, The Creator", "Radiohead", "Kendrick Lamar", "Lana Del Rey",
+    "Frank Ocean", "JID", "SZA", "Childish Gambino", "The Weeknd", "Denzel Curry"
   ];
   
   // HOME: Random artist generator
